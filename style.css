@@ -19,7 +19,8 @@
   transition: opacity ease-in 0.5s;
 }
 
-#product-preview img {
+#product-preview img,
+#capReloaded img {
   position: absolute;
   width: 100%;
   height: auto;
@@ -31,7 +32,8 @@
   opacity: 0;
 }
 
-#product-preview img.basic {
+#product-preview img.basic,
+#capReloaded img.basic {
   position: relative;
 }
 

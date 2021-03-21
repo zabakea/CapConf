@@ -87,6 +87,9 @@
 #selected ul li img {
   width: 3em;
 }
+.hide {
+  opacity: 0;
+}
 
 /* Animation classes */
 
